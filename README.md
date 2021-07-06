@@ -7,7 +7,7 @@
 
 #### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
 
-#### :raising_hand: Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
+#### :computer: :raising_hand: Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
 
 - HTML5
 - CSS3
