@@ -5,6 +5,8 @@
 
 ### Portfolio Online: [haz click aqui](https://gmsmartinez.github.io/myportfolio/)
 
+#### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
+
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
