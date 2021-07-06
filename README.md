@@ -3,11 +3,11 @@
 
 ## Hi 👋 I'm Gabriela, a full stack developer!
 
-### :link: Portfolio Online: [haz click aquí](https://gmsmartinez.github.io/myportfolio/)
+### :link:Portfolio Online: [haz click aquí](https://gmsmartinez.github.io/myportfolio/)
 
-##### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
+#### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
 
-##### :raising_hand::computer:  Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
+#### :raising_hand::computer:  Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
 
 - HTML5
 - CSS3
@@ -17,7 +17,7 @@
 - .NET
 - SQL Server
 
-##### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
+#### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
 
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
