@@ -3,7 +3,7 @@
 
 ## Hi 👋 I'm Gabriela, full stack developer from Argentina!
 
-### Donde me podes encontrar: 
+### Portfolio Online: [haz click aqui](https://gmsmartinez.github.io/myportfolio/)
 
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
