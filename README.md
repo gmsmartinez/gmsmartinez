@@ -3,7 +3,7 @@
 
 ## Hi 👋 I'm Gabriela, a full stack developer!
 
-### :link:Portfolio Online: [haz click aquí](https://gmsmartinez.github.io/myportfolio/)
+### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/myportfolio/)
 
 #### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
 
