@@ -7,7 +7,15 @@
 
 #### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
 
-#### Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientos, entre ellos: 
+#### :raising_hand: Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
+
+- HTML5
+- CSS3
+- Javascript
+- React js
+- Python
+- .NET
+- SQL Server
 
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
