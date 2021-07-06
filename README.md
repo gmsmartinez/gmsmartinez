@@ -17,6 +17,8 @@
 - .NET
 - SQL Server
 
+#### :loudspeaker: También me podes encontrar en [LinkedIn:](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
+
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
