@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Gabriela, full stack developer from Argentina!
 
+### Donde me podes encontrar: 
+
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
