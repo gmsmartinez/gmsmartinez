@@ -1,3 +1,6 @@
+![](https://media-exp1.licdn.com/dms/image/C5616AQF5Ng52iZuTlg/profile-displaybackgroundimage-shrink_350_1400/0/1615523908076?e=1631145600&v=beta&t=wG3gdlgwLb2izR6dEhUOwX3sjtiBVF7rotzuhLi8tr4)
+
+
 ## Hi 👋 I'm Gabriela, full stack developer from Argentina!
 
 ### Donde me podes encontrar: 
