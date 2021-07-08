@@ -30,10 +30,10 @@ ___
 
 ### :yellow_heart: Get in Touch:
 
-- :sparkles: LinkedIn: <https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz>
+- :sparkles: LinkedIn: <https://linkedin.com/in/gabriela-mart%C3%ADnez-soliz>
 - :sparkles: Mail: <gms.martinez18@gmail.com>
 - :sparkles: Twitter: <https://twitter.com/IamTiramisuu>
-- :sparkles: Instagram: <https://www.instagram.com/gabriela.martinezsoliz>  
+- :sparkles: Instagram: <https://instagram.com/gabriela.martinezsoliz>  
 
 
 
