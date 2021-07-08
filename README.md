@@ -22,6 +22,13 @@ ___
 
 #### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
 
+
+___
+
+
+![Gabriela's Stats](https://github-readme-stats.vercel.app/api?username=gmsmartinez&show_icons=true&theme=radical)
+
+
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
