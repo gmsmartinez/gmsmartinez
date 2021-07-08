@@ -17,6 +17,9 @@
 - .NET
 - SQL Server
 
+___
+
+
 #### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
 
 <!--
