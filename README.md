@@ -28,7 +28,14 @@ ___
 ___
 
 
-#### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
+### :yellow_heart: Get in Touch:
+
+- LinkedIn: <https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz>
+- Mail: <gms.martinez18@gmail.com>
+- Twitter: <https://twitter.com/IamTiramisuu>
+- Instagram: <https://www.instagram.com/gabriela.martinezsoliz>  
+
+
 
 ___
 <!--
