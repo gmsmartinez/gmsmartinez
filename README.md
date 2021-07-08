@@ -27,6 +27,7 @@ ___
 
 
 ![Gabriela's Stats](https://github-readme-stats.vercel.app/api?username=gmsmartinez&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmsmartinez&layout=compact)
 
 
 <!--
