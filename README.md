@@ -5,7 +5,7 @@
 
 ### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/myportfolio/)
 
-#### :muscle: Actualmente estoy estudiando la carrera de Analista de Sistemas.
+#### :muscle: Actualmente estoy estudiando la carrera de Analisis de Sistemas.
 
 #### :raising_hand::computer:  Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
 
