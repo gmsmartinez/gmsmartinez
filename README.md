@@ -17,11 +17,6 @@
 - .NET
 - SQL Server
 
-___
-
-
-#### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
-
 
 ___
 
@@ -30,6 +25,12 @@ ___
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmsmartinez&layout=compact)
 
 
+___
+
+
+#### :star2: También me podes encontrar en [LinkedIn.](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz/)
+
+___
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
