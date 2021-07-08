@@ -32,7 +32,6 @@ ___
 
 - :sparkles: [LinkedIn](https://linkedin.com/in/gabriela-mart%C3%ADnez-soliz)
 - :sparkles: [Portfolio Online](https://gmsmartinez.github.io/myportfolio/) 
-- :sparkles: [Mail](gms.martinez18@gmail.com)
 - :sparkles: [Twitter](https://twitter.com/IamTiramisuu)
 - :sparkles: [Instagram](https://instagram.com/gabriela.martinezsoliz)
 
