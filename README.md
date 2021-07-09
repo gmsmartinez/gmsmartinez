@@ -3,6 +3,8 @@
 
 ## Hi 👋 I'm Gabriela, a full stack developer!
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/IamTiramisuu?color=%231DA1F2&label=IamTiramisuu&logo=twitter&style=for-the-badge)](https://twitter.com/IamTiramisuu)
+
 ### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/myportfolio/)
 
 #### :muscle: Actualmente estoy estudiando la carrera de Analisis de Sistemas.
