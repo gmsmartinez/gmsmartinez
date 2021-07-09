@@ -4,6 +4,7 @@
 ## Hi 👋 I'm Gabriela, a full stack developer!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IamTiramisuu?color=%231DA1F2&label=IamTiramisuu&logo=twitter&style=for-the-badge)](https://twitter.com/IamTiramisuu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-mart%C3%ADnez-soliz)
 
 ### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/myportfolio/)
 
@@ -36,6 +37,9 @@ ___
 
 
 ___
+
+[twitter]: https://twitter.com/IamTiramisuu
+
 <!--
 **gmsmartinez/gmsmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
