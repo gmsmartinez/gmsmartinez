@@ -15,12 +15,13 @@
 
 #### :raising_hand::computer:  Desde hace un tiempo me encuentro aprendiendo distintos lenguajes y herramientas, entre ellos: 
 
-- HTML5
+- HTML5 
 - CSS3
 - Javascript
 - React js
 - Python
 - .NET
+- C#
 - SQL Server
 
 
