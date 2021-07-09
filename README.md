@@ -23,7 +23,7 @@
 ___
 
 
-![Gabriela's Stats](https://github-readme-stats.vercel.app/api?username=gmsmartinez&show_icons=true&theme=radical)
+![Gabriela's Stats](https://github-readme-stats.vercel.app/api?username=gmsmartinez&show_icons=true&theme=radical) 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmsmartinez&layout=compact)
 
 
@@ -32,11 +32,7 @@ ___
 
 ### :yellow_heart: Get in Touch:
 
-- :sparkles: [LinkedIn](https://linkedin.com/in/gabriela-mart%C3%ADnez-soliz)
-- :sparkles: [Portfolio Online](https://gmsmartinez.github.io/myportfolio/) 
-- :sparkles: [Twitter](https://twitter.com/IamTiramisuu)
-- :sparkles: [Instagram](https://instagram.com/gabriela.martinezsoliz)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gmsmartinez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriela-martínez-soliz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gabriela.martinezsoliz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IamTiramisuu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gmsmartinez.github.io/myportfolio/)
 
 
 ___
