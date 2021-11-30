@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gmsmartinez.github.io/myportfolio/)
 
-### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/myportfolio/)
+### :link:Portfolio Online: [haz click aquí.](https://gmsmartinez.github.io/)
 
 #### :muscle: Actualmente estoy estudiando la carrera de Analisis de Sistemas.
 
